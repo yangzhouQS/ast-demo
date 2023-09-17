@@ -3,5 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "yangzhou <yearrow@qq.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/generator": "^7.22.15",
+    "@babel/parser": "^7.22.16",
+    "@babel/traverse": "^7.22.20",
+    "@babel/types": "^7.22.19"
+  }
 }
